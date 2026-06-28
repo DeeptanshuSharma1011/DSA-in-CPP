@@ -1,4 +1,4 @@
-# DSA Master Repository
+# Master DSA in C++ Repository
 
 A structured and continuously evolving repository for mastering Data Structures & Algorithms (DSA) using hands-on implementations in C++ (or your chosen language). This repo focuses on building strong fundamentals through categorized problem-solving and clean code practices.
 
@@ -19,6 +19,7 @@ The goal is to build deep conceptual clarity + implementation fluency through co
 ---
 
 ## Repository Structure
+
 DSA-in-CPP/
 │
 ├── 01-play-with-digits/
