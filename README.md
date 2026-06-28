@@ -19,7 +19,7 @@ The goal is to build deep conceptual clarity + implementation fluency through co
 ---
 
 ## Repository Structure
-DSA-Master/
+*DSA-Master/
 │
 ├── 01-play-with-digits/
 │ ├── armstrong_number.cpp
@@ -62,7 +62,7 @@ DSA-Master/
 │ ├── bubble_sort.cpp
 │ ├── merge_sort.cpp
 │
-└── README.md
+└── README.md*
 
 ---
 
