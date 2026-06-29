@@ -18,10 +18,10 @@ The goal is to build deep conceptual clarity + implementation fluency through co
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
+```text
 DSA-in-CPP/
-│
 ├── 01-play-with-digits/
 │   ├── armstrong_number.cpp
 │   ├── palindrome_check.cpp
@@ -64,6 +64,7 @@ DSA-in-CPP/
 │   └── merge_sort.cpp
 │
 └── README.md
+```
 
 ---
 
